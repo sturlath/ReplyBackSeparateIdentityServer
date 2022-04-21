@@ -1,0 +1,6 @@
+﻿namespace ReplyBackSeparateIdentityServer;
+
+public abstract class ReplyBackSeparateIdentityServerApplicationTestBase : ReplyBackSeparateIdentityServerTestBase<ReplyBackSeparateIdentityServerApplicationTestModule>
+{
+
+}

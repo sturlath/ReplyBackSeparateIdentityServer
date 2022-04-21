@@ -1,0 +1,8 @@
+﻿using Volo.Abp;
+
+namespace ReplyBackSeparateIdentityServer.EntityFrameworkCore;
+
+public abstract class ReplyBackSeparateIdentityServerEntityFrameworkCoreTestBase : ReplyBackSeparateIdentityServerTestBase<ReplyBackSeparateIdentityServerEntityFrameworkCoreTestModule>
+{
+
+}
